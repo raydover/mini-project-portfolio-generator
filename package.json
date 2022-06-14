@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/raydover/mini-project-portfolio-generator/issues"
   },
-  "homepage": "https://github.com/raydover/mini-project-portfolio-generator#readme"
+  "homepage": "https://github.com/raydover/mini-project-portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  }
 }
